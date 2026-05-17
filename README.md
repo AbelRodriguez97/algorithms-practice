@@ -62,7 +62,7 @@ if __name__ == "__main__":
 
 | Topic | Solved |
 |-------|--------|
-| Arrays & Hashing | 0 |
+| Arrays & Hashing | 1 |
 | Strings | 0 |
 | Linked Lists | 0 |
 | Trees | 0 |
